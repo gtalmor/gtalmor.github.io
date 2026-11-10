@@ -1,0 +1,6 @@
+{
+  "issuer": "https://gtalmor.github.io",
+  "jwks_uri": "https://gtalmor.github.io/.well-known/jwks.json",
+  "client_name": "gtalmor",
+  "logo_uri": "https://avatars.githubusercontent.com/u/7697088?v=4"
+}
